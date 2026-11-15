@@ -1,3 +1,7 @@
+# Rice (old photos, no longer used)
+
+The app no longer uses these photos: rice products now use the AI-generated images in `RiceBowl/`. The credits below are kept because the files are still in this repo.
+
 # Rice photo credits
 
 Free-licence photos from Wikimedia Commons, resized and cropped to 800x800 for the Devdatta Super Market app.
